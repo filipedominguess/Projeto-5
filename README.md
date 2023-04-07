@@ -38,7 +38,7 @@ Fórmula das hipóteses alternativas e nulas:
 ## Descrição de dados
 * `Name` (nome)
 * `Platform` (plataforma)
-* `Year_of_Release` (Ano de lançamento)
+* `Year_of_Release` (ano de lançamento)
 * `Genre` (gênero)
 * `NA_sales` (vendas norte-americanas em milhões de USD)
 * `EU_sales` (vendas na Europa em milhões de USD)
